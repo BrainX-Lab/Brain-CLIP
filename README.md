@@ -18,7 +18,7 @@
 * [`batch_train.py`](batch_train.py) contains the training loop for the model.
 * [`train.py`](train.py) contains functions that are used for training/testing at each individual epoch.
 * [`model.py`](model.py) contains the model architecture.
-* [`BNT_modules`](BNT_modules.py) contains the transformer encoders used in the model.
+* [`BNT_modules.py`](BNT_modules.py) contains the transformer encoders used in the model.
     - Part of the source code comes from [https://github.com/Wayfear/BrainNetworkTransformer](https://github.com/Wayfear/BrainNetworkTransformer), used for accessing the attention weights of transformer layers.
 * [`utils.py`](utils.py) contains:
     - The path to the SC/FC data. 
